@@ -75,7 +75,7 @@ Before we can continue, we must first stress one detail of importance:
 With that out of the way, we need to set up an appropriate development environment!
 
 ### Additional resources
-
+[Check this link about "How to Dual Boot Windows 11 & Ubuntu Easily!"](https://www.youtube.com/watch?v=mXyN1aJYefc).
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
